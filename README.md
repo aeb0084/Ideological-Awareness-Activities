@@ -6,6 +6,7 @@ This repository holds all ideological awareness activites used in the following 
 Publication Title | Journal  | DOI with Attached PDF
 -------------------------------------|------------------------------------ | -----------------------------------------------------
 Teaching the Tough Topics: Fostering Ideological Awareness through the Inclusion of Societally Impactful Topics in Introductory Biology  | CBE—Life Sciences EducationVol. 20, No. 4   | [https://doi.org/10.1187/cbe.21-04-0100](cbe.21-04-0100.pdf)
+&nbsp; | STATUS |  [ACTIVITY](LINK)
 
 
 
