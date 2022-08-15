@@ -2,11 +2,35 @@
 
 This repository holds all ideological awareness activites used in a number of publications. Please note, These activites are updated in real time following feedback and publication results. Table 1 contains the most up to date versions of all activities available for public use. All previously versions of the activites used within a specific publication are archived in Table 2, separated by published article.
 
+## Activity Descriptions
+
+### Enironmental Injustice
+> descrition
+
+### Race, Ancestry, and Ethnicity
+> descrition
+
+### Tissue Ownership and Biological Ethics
+> descrition
+
+### Genetics of Gender Identity and Sexuality
+> descrition
+
+### Representation in STEM
+> descrition
+
+### Disparities in Healthcare
+> descrition
+
+### Designer Babies
+> descrition
+
 ## Table 1
 Activity Title | Description  | Link to Downloadable Activity
 -------------------------------------|------------------------------------ | -----------------------------------------------------
-TITLE | DESCRIPTION   | [DOWNLOAD: ACTIVITY]()
-
+TITLE | [DOWNLOAD: ACTIVITY]()
+&nbsp;| [DOWNLOAD: Instructor Resources]()
+&nbsp;| [DOWNLOAD: Teaching Slides]()
 
 ## Table 2
 Publication Title | Journal  | DOI with Attached PDF
