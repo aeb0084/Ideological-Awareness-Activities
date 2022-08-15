@@ -26,7 +26,7 @@ This repository holds all ideological awareness activites used in a number of pu
 > descrition
 
 ## Table 1
-Activity Title  | Link to Downloadable Resource
+Activity Title  | Link to Downloadable Resource |
 -------------------------------------|------------------------------------ | -----------------------------------------------------
 Environmental Injustice | [DOWNLOAD: ACTIVITY]()
 &nbsp;| [DOWNLOAD: Instructor Resources]()
