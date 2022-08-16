@@ -44,7 +44,7 @@ Tissue Ownership and Biological Ethics | [DOWNLOAD: Activity](Ownership_activity
 &nbsp;| [DOWNLOAD: Teaching Slides](Ownership_slides.pptx)
 The Integration of Evolution and Religion | [DOWNLOAD: Activity](EvolRel_activity.pdf)
 &nbsp;| [DOWNLOAD: Instructor Resources](EvolRel.pdf)
-&nbsp;| [DOWNLOAD: Teaching Slides](EvolRel_slides.pdf)
+&nbsp;| [DOWNLOAD: Teaching Slides](EvolRel_slides.pptx)
 Genetics of Gender Identity and Sexuality | [DOWNLOAD: Activity](Gender_activity.pdf)
 &nbsp;| [DOWNLOAD: Instructor Resources](Gender.pdf)
 &nbsp;| [DOWNLOAD: Teaching Slides](Gender_slides.pptx)
