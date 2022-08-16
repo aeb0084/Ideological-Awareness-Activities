@@ -1,6 +1,6 @@
 # Ideological-Awareness-Activities
 
-This repository holds all ideological awareness activites used in a number of publications. Please note, These activites are updated in real time following feedback and publication results. Table 1 contains the most up to date versions of all activities available for public use. Tables 2 and 3 contrain key outcomes and other achievements related to Ideological Awareness curriculum, including those utilizing these activities.
+This repository holds all ideological awareness activites used in a number of publications. Please note, These activites are updated in real time following feedback and publication results. Table 1 contains the most up to date versions of all activities available for public use. Table 2 contrain key outcomes and other achievements related to Ideological Awareness curriculum, including those utilizing these activities.
 
 ## Activity Descriptions
 
@@ -57,15 +57,10 @@ Designer Babies | [DOWNLOAD: Activity](DesBabies_activity.pdf)
 Publication Title | Journal  | DOI with Attached PDF
 -------------------------------------|------------------------------------ | -----------------------------------------------------
 Teaching the Tough Topics: Fostering Ideological Awareness through the Inclusion of Societally Impactful Topics in Introductory Biology  | CBE—Life Sciences EducationVol. 20, No. 4 | [https://doi.org/10.1187/cbe.21-04-0100](cbe.21-04-0100.pdf)
-Teaching between the lines: Representation in science textbooks| | Trends in Ecology & Evolution, 36(1), 4-8 | https://doi.org/10.1016/j.tree.2020.10.010
+Teaching between the lines: Representation in science textbooks | Trends in Ecology & Evolution, 36(1), 4-8 | https://doi.org/10.1016/j.tree.2020.10.010
 How and why instructors discuss controversial topics in biology.| Currently in Revision at CBE-LSE | TBA
 Re-envisioning biology curricula to recognize biases in science | Currently in Review Research in Science Education | TBA
 The Impacts of Culturally Relevant Biology Curriculum on Students Ability to Connect Biological Concepts to Societal Topics | Currently in Preparation | TBA
 
-
-## Table 3
-Presentation Title | Conference  | Presenter
--------------------------------------|------------------------------------ | -----------------------------------------------------
- |  | 
 
 
