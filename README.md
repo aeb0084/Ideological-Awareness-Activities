@@ -63,9 +63,9 @@ Publication Title | Journal  | DOI with Attached PDF
 -------------------------------------|------------------------------------ | -----------------------------------------------------
 Teaching the Tough Topics: Fostering Ideological Awareness through the Inclusion of Societally Impactful Topics in Introductory Biology  | CBE—Life Sciences EducationVol. 20, No. 4 | [https://doi.org/10.1187/cbe.21-04-0100](cbe.21-04-0100.pdf)
 Teaching between the lines: Representation in science textbooks | Trends in Ecology & Evolution, 36(1), 4-8 | https://doi.org/10.1016/j.tree.2020.10.010
-How and why instructors discuss controversial topics in biology.| Currently in Revision at CBE-LSE | TBA
-Re-envisioning biology curricula to recognize biases in science | Currently in Review Research in Science Education | TBA
-The Impacts of Culturally Relevant Biology Curriculum on Students Ability to Connect Biological Concepts to Societal Topics | Currently in Preparation | TBA
+How and why instructors discuss controversial topics in biology.| Currently in Press at CBE-Life Sciences Education | TBA
+Re-envisioning Biology Curricula to Include Ideological Awareness | Research in Science Education | https://doi.org/10.1007/s11165-023-10101-0
+Embracing the inclusion of societal concepts in science leads to better understandings of their impacts | Currently in Revision | TBA
 
 
 
