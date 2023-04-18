@@ -8,7 +8,7 @@ This repository holds all ideological awareness activites used in a number of pu
 > This activity is the only one still in the early stages, although it will be finished in early December. At the current time, this activity combines predictive graphing with peer-reviewed article critiques and group discussion. Students will be discussing the basic principles of pollution, exposure to chemical releases, and air pollution. This will include specific examples (Flint Water Crisis, Cancer Alley, Uniontown AL, and Cheraw SC). Students will predict pollution and emissions across the United States based on population and compare it with data collected from the CDC to examine which populations are considered to be “at risk”, and discuss how we make decisions about pollution management as a society.  
 
 ### Race, Ancestry, and Ethnicity
-> Students complete a phylogenetics activity in which they are provided with “averaged photographs”. These are images of humans in which hundreds of photos from a single region of the world are averaged together to produce one image representative from a country. Students are then asked to place the photos on a phylogenetic tree at the current branch locations. This can be done individually or in groups. Students will then work as a class to build an ancestrally correct phylogenetic tree based on DNA sequence. Students will discuss phylogenetics based on morphology vs genetics, and how this relates to the concepts of race (social construct) and ancestry (biological construct). They will then discuss the implications of these terms and our understanding of how they impact their lives. In the lesson, biogeography of human evolution and eugenics will be discussed. 
+> This activity is under construction!
 
 ### The Integration of Evolution and Religion
 > Students will be able to define and comprehend cultural competence, acknowledge the limitations of science, and generate effective critical thinking of the given topic when comparing scientific fact vs phenomenons outside of the scientific scope. Students will be provided with a series of examples, and asked to determine if the phenomenon can be explained by scientific inquiry. Students will discuss if they believe the evolution is controversial, and why they feel that way. Students will talk through an example of lenses allow us to perform differential interpretation of the world around us, and there are real lenses, and metaphorical lenses (societally driven). The class will conclude with a discussion on why/how evolution and religion can co-exist, and will include quotes from figureheads within the evolution and religious fields. 
@@ -36,9 +36,6 @@ Activity Title  | Link to Downloadable Resource
 Environmental Injustice | [DOWNLOAD: Activity](EnvJus_activity.pdf)
 &nbsp;| [DOWNLOAD: Instructor Resources](EnvJus.pdf)
 &nbsp;| [DOWNLOAD: Teaching Slides](EnvJus_slides.pptx)
-Race, Ancestry, and Ethnicity | [DOWNLOAD: Activity](RAE_activity.pdf)
-&nbsp;| [DOWNLOAD: Instructor Resources](RAE.pdf)
-&nbsp;| [DOWNLOAD: Teaching Slides](RAE_slides.pptx)
 Tissue Ownership and Biological Ethics | [DOWNLOAD: Activity](Ownership_activity.pdf)
 &nbsp;| [DOWNLOAD: Instructor Resources](Ownership.pdf)
 &nbsp;| [DOWNLOAD: Teaching Slides](Ownership_slides.pptx)
